@@ -1,0 +1,76 @@
+// json: https://api.myjson.com/bins/x3196
+[
+  {
+      "id": 1,
+      "title": "CSS mug",
+      "price": 5,
+      "image": "img/mug.jpg"
+    },
+  {
+      "id": 2,
+      "title": "I am Groot cap",
+      "price": 6,
+      "image": "img/hat.jpeg"
+    },
+  {
+      "id": 3,
+      "title": "Balloon dress",
+      "price": 10,
+      "image": "img/dress.jpg"
+    },
+  {
+      "id": 4,
+      "title": "T-shirt",
+      "price": 6,
+      "image": "img/t-shirt.jpg"
+    },
+  {
+      "id": 5,
+      "title": "Right sneaker",
+      "price": 18,
+      "image": "img/sneaker.webp"
+    },
+  {
+      "id": 6,
+      "title": "Left sneaker",
+      "price": 2,
+      "image": "img/sneaker.webp"
+    },
+  {
+      "id": 7,
+      "title": "Watermelon skirt",
+      "price": 5,
+      "image": "img/skirt.jpg"
+    },
+  {
+      "id": 8,
+      "title": "New Zealand flag",
+      "price": 3,
+      "image": "img/flag.jpg"
+    },
+  {
+      "id": 9,
+      "title": "Child` drawing",
+      "price": 1,
+      "image": "img/drawing.png"
+    },
+  {
+      "id": 10,
+      "title": "Headphones",
+      "price": 9,
+      "image": "img/headphones.jpg"
+    },
+  {
+      "id": 11,
+      "title": "Bumblebee sticker",
+      "price": 1,
+      "image": "img/sticker.png"
+    },
+  {
+      "id": 12,
+      "title": "Nickolas Cage textbook",
+      "price": 2,
+      "image": "img/textbook.jpg"
+    }
+]
+
